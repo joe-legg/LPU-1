@@ -5,7 +5,7 @@ A super basic CPU designed using logisim.
 LPU-1 has 11 instructions:
 
 | Instuction         | Description                                                                                    |
-| ------------------ | ---------------------------------------------------------------------------------------------- |
+| :----------------: | ---------------------------------------------------------------------------------------------- |
 |  ADD               | Adds register A to register B and stores the result in the Accumulator                         |
 |  SUB               | Subtracts the contents of register B from register A and stores the result in the Accumulator  |
 |  PUT [REGISTER], X | Puts the value X in [REGISTER]                                                                 |
